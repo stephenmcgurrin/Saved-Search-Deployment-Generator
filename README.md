@@ -29,7 +29,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/stephenmcgurrin/Saved-Search-Deployment-Generator.git
 cd Saved-Search-Deployment-Generator
-python netsuite_formatter.py
+python SavedSearchScriptGenerator.py
 ```
 
 ## 🧑‍💻 Usage
