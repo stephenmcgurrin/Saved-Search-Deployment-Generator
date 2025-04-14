@@ -13,7 +13,7 @@ A simple Python GUI application that helps format NetSuite Saved Search scripts.
 
 ## 🖥️ Screenshot
 
-_(Optional: Insert a screenshot here showing the GUI interface)_
+![image](https://github.com/user-attachments/assets/71234069-3f8c-42ba-877b-3e4748b11144)
 
 ## 🚀 Getting Started
 
