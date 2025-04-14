@@ -29,9 +29,16 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/stephenmcgurrin/Saved-Search-Deployment-Generator.git
+```
+Navigate to folder:
+```bash
 cd Saved-Search-Deployment-Generator
+```
+Run the script:
+```bash
 python SavedSearchScriptGenerator.py
 ```
+
 
 ## 🧑‍💻 Usage
 
@@ -43,3 +50,13 @@ python SavedSearchScriptGenerator.py
    - **Description** – brief notes about the saved search
 4. Click **Preview** to see the formatted script.
 5. Click **Process and Save** to export the JavaScript file.
+
+
+## Alternative Usage:
+1. Install Pyinstaller
+2. Naviage to folder above
+3. Run the follliwng command:
+```bash
+pyinstaller --onefile --windowed --noconsole SavedSearchScriptGenerator.py
+```
+4. You now have a single file executable for this. 
