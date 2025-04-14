@@ -1,6 +1,6 @@
 # NetSuite Script Formatter 🧾
 
-A simple Python GUI application that helps format NetSuite Saved Search scripts. Designed for consultants, developers, and NetSuite admins, this tool makes it easy to inject metadata like title, ID, and description, and generate properly structured `search.create` JavaScript code for use in SuiteScript. It is based on the wonderful work by Chidi Okwidire on his [NetSuite Insights Blog]([https://example.com](https://netsuite.smash-ict.com/saved-search-deployment-failed-try-this-before-resorting-to-manual-deployment/))
+A simple Python GUI application that helps format NetSuite Saved Search scripts. Designed for consultants, developers, and NetSuite admins, this tool makes it easy to inject metadata like title, ID, and description, and generate properly structured `search.create` JavaScript code for use in SuiteScript. It is based on the wonderful work by Chidi Okwidire on his [NetSuite Insights Blog](https://example.com](https://netsuite.smash-ict.com/saved-search-deployment-failed-try-this-before-resorting-to-manual-deployment/))
 
 
 ## ✨ Features
