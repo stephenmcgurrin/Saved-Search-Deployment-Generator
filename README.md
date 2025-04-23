@@ -53,11 +53,12 @@ python SavedSearchScriptGenerator.py
 
 
 ## Alternative Usage:
+
 1. Install Pyinstaller
 ```bash
 pip install pyinstaller
 ```
-2. Naviage to folder above
+2. Navigate to folder above
 ```bash
 cd Saved-Search-Deployment-Generator
 ```
@@ -65,4 +66,4 @@ cd Saved-Search-Deployment-Generator
 ```bash
 pyinstaller --onefile --windowed --noconsole SavedSearchScriptGenerator.py
 ```
-4. You now have a single file executable for this you can use in 
+4. In the dist folder created - you have a single executable file. This can be used from start, desktop, or other shortcuts.
