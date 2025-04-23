@@ -1,6 +1,6 @@
 # NetSuite Script Formatter 🧾
 
-A simple Python GUI application that helps format NetSuite Saved Search scripts. Designed for consultants, developers, and NetSuite admins, this tool makes it easy to inject metadata like title, ID, and description, and generate properly structured `search.create` JavaScript code for use in SuiteScript. It is based on the wonderful work by Chidi Okwudire on his [NetSuite Insights Blog](https://netsuite.smash-ict.com/saved-search-deployment-failed-try-this-before-resorting-to-manual-deployment/)
+A simple Python GUI application that helps format NetSuite Saved Search scripts. Designed for consultants, developers, and NetSuite admins, this tool makes it easy to generate a properly structured `search.create`. It is based on the wonderful work by Chidi Okwudire on his [NetSuite Insights Blog](https://netsuite.smash-ict.com/saved-search-deployment-failed-try-this-before-resorting-to-manual-deployment/)
 
 
 ## ✨ Features
@@ -54,9 +54,15 @@ python SavedSearchScriptGenerator.py
 
 ## Alternative Usage:
 1. Install Pyinstaller
+```bash
+pip install pyinstaller
+```
 2. Naviage to folder above
-3. Run the follliwng command:
+```bash
+cd Saved-Search-Deployment-Generator
+```
+3. Run the following command:
 ```bash
 pyinstaller --onefile --windowed --noconsole SavedSearchScriptGenerator.py
 ```
-4. You now have a single file executable for this. 
+4. You now have a single file executable for this you can use in 
