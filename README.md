@@ -66,4 +66,4 @@ cd Saved-Search-Deployment-Generator
 ```bash
 pyinstaller --onefile --windowed --noconsole SavedSearchScriptGenerator.py
 ```
-4. In the dist folder created - you have a single executable file. This can be used from start, desktop, or other shortcuts.
+4. In the dist folder created - you now have a single executable file. This can be used from start, desktop, or other shortcuts.
